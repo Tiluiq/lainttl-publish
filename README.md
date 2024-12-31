@@ -1,0 +1,2 @@
+# lainttl-publish
+Tiluiqが作成した、lainTTLガイドライン下で利用可能なファイル群の置き場です
